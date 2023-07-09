@@ -1,0 +1,19 @@
+.taskList ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: start;
+    flex-flow: wrap;
+}
+
+.headers {
+    height: 50px;
+    background-color: rgb(235, 235, 211);
+    color: black;
+    display: flex;
+    justify-content: space-evenly;  ;
+}
+
+.headers span {
+    width: 400px;
+    margin-bottom: 3px;
+}

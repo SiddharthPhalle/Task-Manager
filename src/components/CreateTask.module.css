@@ -1,0 +1,14 @@
+.header {
+  height: 200px;
+  width: 100%;
+  background-color: #e9eef6;
+  vertical-align: middle;
+  position: relative;
+}
+
+.header div {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
